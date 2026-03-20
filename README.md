@@ -87,4 +87,15 @@ Convert CLI to GUI (Tkinter / Web)
 Yash Bhoir
 
 
+HAND WRITTEN NOTES 
+task_manager/assests
+![1](https://github.com/user-attachments/assets/085dff30-f588-43b6-8373-8f0edcd392c3)
+![2](https://github.com/user-attachments/assets/6e82f31e-09fb-4042-af04-72c0bced4f06)
+![3](https://github.com/user-attachments/assets/f99f8e14-0ed3-429a-8937-cd1045030c80)
+![4](https://github.com/user-attachments/assets/9d4d5af2-e784-42e8-9420-87b8ab04b5da)
+![5](https://github.com/user-attachments/assets/421ef07e-d2c0-4092-b280-d5ac887f01ee)
+![6](https://github.com/user-attachments/assets/4cb04e76-857b-4e28-bae2-f2046a9b6339)
+![7](https://github.com/user-attachments/assets/31e02a4f-de72-4827-bcb3-fc2dfc667f44)
+
+
 
