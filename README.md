@@ -4,7 +4,7 @@
 A command-line based Task Manager built using Python and SQLite.  
 This application allows users to efficiently manage daily tasks with full CRUD operations in a structured and simple interface.
 
---
+----
 
      FEATURES
 - Add new tasks with deadlines  
