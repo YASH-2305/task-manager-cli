@@ -14,7 +14,7 @@ This application allows users to efficiently manage daily tasks with full CRUD o
 - Menu-driven interface  
 - Continuous execution using loop  
 
----
+---            
 
     TECH STACK
 - Python  
